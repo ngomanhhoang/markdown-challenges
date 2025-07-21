@@ -17,6 +17,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,py,nodejs,go)](https://skillicons.dev)
 
+3. Framework
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
 
 ## Top skills
 
