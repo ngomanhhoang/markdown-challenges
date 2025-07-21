@@ -6,9 +6,17 @@
 - 🌱 I’m currently learning with help from docs.github.com
 - 💬 Ask me about Github
 
+
 ## Skills
 
+1. Frontend development
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+
+2. Backend development
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,py,nodejs,go)](https://skillicons.dev)
+
 
 ## Top skills
 
