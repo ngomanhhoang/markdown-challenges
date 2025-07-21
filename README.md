@@ -10,4 +10,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
+## Top skills
 
+![My top skills](top-langs.svg)
