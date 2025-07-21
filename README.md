@@ -25,3 +25,7 @@
 ## Top skills
 
 ![My top skills](top-langs.svg)
+
+## Github Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=ngomanhhoang&show_icons=true&locale=en)
