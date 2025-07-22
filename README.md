@@ -31,6 +31,8 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=ngomanhhoang&show_icons=true&locale=en)
 
 
-## Bye ✌️
+## 🤝 Let's Connect
+[Contact](https://mail.google.com/mail/u/1/#inbox)
 
-![bye image](7988e07fafa8fc3b73ed76e4cbdd573e.jpg)
+
+*"First, solve the problem. Then, write the code."* – John Johnson
