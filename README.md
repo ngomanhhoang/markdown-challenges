@@ -29,7 +29,4 @@
 
 
 ## 🤝 Let's Connect
-[Contact](https://mail.google.com/mail/u/1/#inbox)
-
-
-*"First, solve the problem. Then, write the code."* – John Johnson
+[Contact](https://www.linkedin.com/in/man-khoanh-nho/)
