@@ -12,7 +12,7 @@
 
 - Backend development
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,py,nodejs,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs)](https://skillicons.dev)
 
 - Framework
 
